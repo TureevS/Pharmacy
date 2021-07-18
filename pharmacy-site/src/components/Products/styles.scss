@@ -1,0 +1,43 @@
+.mainFeaturesPost {
+    position: relative;
+    color: white;
+    margin-bottom: 8px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+  }
+  .mainFeaturesPostContent {
+    position: relative;
+    padding: 48px;
+    margin-top: 64px;
+  }
+
+  .cardGrid{
+    margin-top: 64px;
+  }
+
+  .searchForm{
+    width: 500px;
+  }
+
+  .Input{
+    margin-left: 24px;
+    flex: 1;
+  }
+
+  .submitButton{
+    padding: 10,
+  }
+  .navigation{
+    flex-Grow: 1;
+    display: flex;
+    justify-content:space-between;
+    padding: 0px;
+    margin-Bottom: 8px,
+  }
+
+  .content{
+    flex-Grow: 1;
+    //background-color: rgb(226, 225, 225);
+    padding: 10px;
+  }

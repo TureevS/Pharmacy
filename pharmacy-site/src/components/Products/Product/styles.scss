@@ -1,0 +1,29 @@
+.root {
+  flex-grow: 1;
+  max-width: 345px;
+}
+
+.CardMedia{
+  padding-top: 56.25%;
+}
+
+.CardContent{
+  flex-grow: 1;
+  justify-content: space-around;
+  line-height: 150%
+}
+.CardActions{
+  display: flex;
+  justify-content:space-between;
+}
+.cardContent2{
+  flex-grow: 1;
+  display: flex;
+  justify-content: space-between;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+  font-size: 10px;
+}
